@@ -1,0 +1,3 @@
+aiohttp
+aiohttp_socks<1.0
+coloredlogs
